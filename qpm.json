@@ -12,9 +12,12 @@
   },
   "dependencies": [
     {
-      "id": "modloader",
-      "versionRange": "=1.2.3",
-      "additionalData": {}
+      "id": "scotland2",
+      "versionRange": "^0.1.4",
+      "additionalData": {
+        "includeQmod": false,
+        "private": true
+      }
     },
     {
       "id": "beatsaber-hook",
